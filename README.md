@@ -1,5 +1,1 @@
-Contains files related to TECHNO-HACKS Internship.
-Tools used : Maltego, Nmap, Wireshark
-Target Used : (http://testphp.vulnweb.com/login.php)
-Internship Duration : One Month
-Internship Type : Remote
+Contains files related to TECHNO-HACKS Internship. Tools such as Maltego, Nmap, Wireshark. The target used [http://testphp.vulnweb.com/login.php].
