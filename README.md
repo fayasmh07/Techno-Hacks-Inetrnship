@@ -15,7 +15,7 @@
 <p align="center">
   Contains files, videos & internships related to TECHNO-HACKS Internship.
 
-  `user@github:/# cat profession.txt`
+  `user@github:/tools# la -la`
    - <a href="https://www.wireshark.org/docs/wsug_html_chunked/"> Wireshark </a>
    - <a href="https://docs.maltego.com/support/home"> Maltego </a>
    - <a href="https://nmap.org/docs.html"> Nmap </a>
