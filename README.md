@@ -8,7 +8,7 @@
  
  <h3>
    <p align="center">
-     Cyber Security and Ethical HAcking Internhsip
+     Cyber Security and Ethical Hacking Internhsip
    </p>
  </h3>
 
@@ -18,9 +18,9 @@
   `user@github:/# cat profession.txt`
    - <a href="https://www.wireshark.org/docs/wsug_html_chunked/"> Wireshark </a>
    - <a href="https://docs.maltego.com/support/home"> Maltego </a>
-   - <a href="https://nmap.org/docs.html> Nmap </a>
+   - <a href="https://nmap.org/docs.html"> Nmap </a>
 
-   The target used [http://testphp.vulnweb.com/login.php].
+   The target used http://testphp.vulnweb.com/login.php .
 </p>
 
 
